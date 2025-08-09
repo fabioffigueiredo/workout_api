@@ -1,0 +1,3 @@
+from categorias.models import CategoriasModels
+from centro_treinamento.models import CentroTreinamentoModels
+from atletas.models import AtletasModels
