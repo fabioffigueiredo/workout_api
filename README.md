@@ -28,7 +28,7 @@ Certifique-se de ter o [Docker](https://www.docker.com/get-started) e o [Docker 
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/workout_api.git
+git clone https://github.com/fabioffigueiredo/workout_api.git
 cd workout_api
 ```
 
